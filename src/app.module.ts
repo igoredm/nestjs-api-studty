@@ -5,4 +5,4 @@ import { TasksModule } from './tasks/tasks.module';
   imports: [TasksModule],
   controllers: [],
 })
-export class AppModule { }
+export class AppModule {}
