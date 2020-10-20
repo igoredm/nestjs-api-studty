@@ -8,5 +8,5 @@ Primeiro contato com NestJs, estudo seguindo a orientação do curso na udemy.
 > Título: [NestJS Xero to Hero](https://www.udemy.com/course/nestjs-zero-to-hero)  
 > Criador: [Ariel Weinberger](https://github.com/arielweinberger)  
 
-### Igoredm - 2020
+### Igor Ehlert Del Maschio - 2020
 
